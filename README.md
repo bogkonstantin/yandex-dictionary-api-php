@@ -5,6 +5,9 @@ To use it you need api key. You can get it here:
 https://tech.yandex.ru/dictionary/
 
 ## Installation
+```
+composer require bog/yandex-dictionary-api
+```
 
 ## Usage  
 Create object with Api Key as parameter.
