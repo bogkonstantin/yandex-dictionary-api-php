@@ -1,7 +1,7 @@
 # Yandex dictionary api
 ## Description
-Api contains two methods: get languages and lookup.  
-To use it you need api key. You can get it there:  
+Api contains two methods: get languages (getLangs) and lookup.  
+To use it you need api key. You can get it here:  
 https://tech.yandex.ru/dictionary/
 
 ## Installation
@@ -12,10 +12,10 @@ Create object with Api Key as parameter.
 $dictionary = new Dictionary('apiKey');
 ```
 ### Set output type
-You can get respose as JSON (default) or XML.
-Output examples for both types:
-https://tech.yandex.ru/dictionary/doc/dg/reference/getLangs-docpage/
-https://tech.yandex.ru/dictionary/doc/dg/reference/lookup-docpage/
+You can get respose as JSON (default) or XML.  
+Output examples for both types:  
+https://tech.yandex.ru/dictionary/doc/dg/reference/getLangs-docpage/  
+https://tech.yandex.ru/dictionary/doc/dg/reference/lookup-docpage/  
 
 ```
 // JSON output (default)
