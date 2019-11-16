@@ -2,7 +2,7 @@
   "name": "bog/yandex-dictionary-api",
   "description": "Yandex Dictionary PHP library",
   "keywords":["yandex","dictionary", "translate"],
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "authors": [
     {
